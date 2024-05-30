@@ -1,6 +1,5 @@
 #  Gemini Clone 
 
-![Screenshot 2024-05-17 211218](https://github.com/Sai-Manikanta-Andey/GeminiClone/assets/87435743/c0c9d3dc-b12d-4276-8f71-8e112e54a511)
 
 
 **Unleash the power of AI with Gemini.**
